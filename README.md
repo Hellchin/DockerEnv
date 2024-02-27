@@ -60,7 +60,7 @@ docker-compose down
 #  docker-compose 重启
 docker-compose restart
 
-# # ======= 之前部署过，重新更新代码就可以用这个！！！======= # #
+# # ======= 之前部署过，重新更新代码就可以用这个！！！123======= # #
 #  docker-compose 启动时重新进行 build
 docker-compose up -d --build
 
